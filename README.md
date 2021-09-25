@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Boisuey
+- 👀 I’m interested in Software
+- 🌱 I’m currently learning python-c++-swift
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me Discord:LimeCraft#2609
